@@ -9,16 +9,11 @@ Neumorphism is a UI design trend which is a combination of Material design and S
 
 **Client:** HTML, CSS
 
-**Site:** https://vigorous-heyrovsky-2f0225.netlify.app/
+**Site:** https://stephen-moran-neumorphic-design-form.netlify.app/
 
   
-## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://link-to-project
-```
 
 
 
